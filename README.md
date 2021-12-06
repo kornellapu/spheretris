@@ -1,7 +1,7 @@
 Author: Kornél Lapu
 Created date: 2021.12.06
 
-This game is a variant of the Well-known Tretris.
+This game is a variant of the Well-known Tetris.
 In Spheretris the falling shapes will move towards the middle gravity point.
 To destroy the remaining blocks you have to make full loops around the center.
 

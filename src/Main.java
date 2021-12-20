@@ -1,3 +1,7 @@
+import fileio.ScoreFileHandler;
+import gui.WindowHandler;
+import logic.GameLogic;
+import logic.GameStateMachine;
 
 public class Main {
 	@SuppressWarnings("unused")
